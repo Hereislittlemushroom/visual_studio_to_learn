@@ -1,0 +1,11 @@
+C:\Users\FZQ\source\repos\扫雷\扫雷\bin\Debug\扫雷.exe.config
+C:\Users\FZQ\source\repos\扫雷\扫雷\bin\Debug\扫雷.exe
+C:\Users\FZQ\source\repos\扫雷\扫雷\bin\Debug\扫雷.pdb
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.csprojAssemblyReference.cache
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.Form_Main.resources
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.csproj.GenerateResource.cache
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.csproj.CoreCompileInputs.cache
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.exe
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.pdb
+C:\Users\FZQ\source\repos\扫雷\扫雷\obj\Debug\扫雷.Form_Setting.resources
